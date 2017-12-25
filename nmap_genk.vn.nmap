@@ -1,0 +1,14 @@
+# Nmap 7.60 scan initiated Mon Dec 25 08:44:47 2017 as: nmap -oN /tmp/results/nmap_genk.vn.nmap genk.vn
+Nmap scan report for genk.vn (123.30.215.16)
+Host is up (0.00098s latency).
+rDNS record for 123.30.215.16: static.vnpt.vn
+Not shown: 994 filtered ports
+PORT     STATE  SERVICE
+53/tcp   closed domain
+80/tcp   open   http
+443/tcp  open   https
+8081/tcp closed blackice-icecap
+8088/tcp closed radan-http
+8888/tcp closed sun-answerbook
+
+# Nmap done at Mon Dec 25 08:49:11 2017 -- 1 IP address (1 host up) scanned in 263.74 seconds
