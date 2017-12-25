@@ -1,0 +1,8 @@
+# Nmap 7.60 scan initiated Mon Dec 25 08:44:39 2017 as: nmap -oN /tmp/results/nmap_vncert.vn.nmap vncert.vn
+Nmap scan report for vncert.vn (103.28.173.228)
+Host is up (0.038s latency).
+Not shown: 999 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+# Nmap done at Mon Dec 25 08:44:54 2017 -- 1 IP address (1 host up) scanned in 15.79 seconds
